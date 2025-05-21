@@ -3,21 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/AdminView/adminManageCategory.jsp</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Controller/Customer/productDetail.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/DAO/dbConfig.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Controller/Customer/PaymentController.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Filter/FilterAuthorizationSeller.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/AdminView/adminManageFilter.jsp</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/AdminView/AddCategoryFromAdmin.jsp</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/DAO/UserDAO.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Controller/Seller/SellerDashboard.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Filter/FilterAuthorization.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/SellerView/InformationStore.jsp</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/Controller/Seller/AddProduct.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/CustomerView/OrderDetail.jsp</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/src/java/DAO/ShoppingCartDAO.java</file>
-            <file>file:/E:/Documents/Java/New%20folder/Final/Tikilazapee/web/view/CustomerView/productDetail.jsp</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/Controller/Common/indexController.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/util/Oauth_Config.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/util/VNPAY_config.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/Service/UserGoogleService.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/Filter/FilterAuthorization.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/Service/UserFacebookService.java</file>
+            <file>file:/E:/Documents/Java/ProjectSWP/Final/Tikilazapee/src/java/util/Hashing.java</file>
         </group>
     </open-files>
 </project-private>
